@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[####################### Starting TC #######################<br>]]>
+    </line>
+    <line>
+      <![CDATA[	 Step 1 : Retriable com.api.test.framework.bl.actions.RequestAction<br>]]>
+    </line>
+    <line>
+      <![CDATA[		 Retry Count 1 :- <br>]]>
+    </line>
+    <line>
+      <![CDATA[	 Step 2 : Non Retriable com.api.test.framework.bl.verifs.ResponseVerification<br>]]>
+    </line>
+    <line>
+      <![CDATA[####################### Ending TC, took 0 sec to execute, TC Passed : true #######################<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2018-03-31T15:42:26Z" finished-at="2018-03-31T15:42:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2018-03-31T15:42:26Z" finished-at="2018-03-31T15:42:26Z">
+      <class name="com.api.test.framework.TestClass">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.api.test.framework.TestClass@573f2bb1]" name="test" duration-ms="14" started-at="2018-03-31T21:12:26Z" finished-at="2018-03-31T21:12:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[####################### Starting TC #######################<br>]]>
+            </line>
+            <line>
+              <![CDATA[	 Step 1 : Retriable com.api.test.framework.bl.actions.RequestAction<br>]]>
+            </line>
+            <line>
+              <![CDATA[		 Retry Count 1 :- <br>]]>
+            </line>
+            <line>
+              <![CDATA[	 Step 2 : Non Retriable com.api.test.framework.bl.verifs.ResponseVerification<br>]]>
+            </line>
+            <line>
+              <![CDATA[####################### Ending TC, took 0 sec to execute, TC Passed : true #######################<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.api.test.framework.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
